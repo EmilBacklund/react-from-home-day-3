@@ -1,0 +1,8 @@
+.expensive {
+  color: red;
+  font-weight: 600;
+}
+
+.cheap {
+  color: green;
+}
